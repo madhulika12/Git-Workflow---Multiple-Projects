@@ -1,2 +1,2 @@
-1) If you are deploying to an NPE, you need to be remineded to add date, time, tag and deploy to a deploy branch. 
+1) If you are deploying to an NPE, you need to be remineded to add date, time tag or some other tag and deploy to a deploy branch. 
 check the drawbacks of deploying same commit to two branches.
